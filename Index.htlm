@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PrivyBar • Barmaid à domicile</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>PrivyBar</h1>
+    <p>Réservez une barmaid privée en 3 minutes</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Accueil</a>
+    <a href="tarifs.html">Tarifs</a>
+    <a href="galerie.html">Galerie</a>
+    <a href="barmaids.html">Barmaids</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Bienvenue chez PrivyBar</h2>
+    <p>Scannez le QR code pour réserver une barmaid.</p>
+    <img src="assets/qr-code.png" alt="QR Code" style="width:150px;">
+  </section>
+
+  <footer>
+    <p>&copy; 2025 PrivyBar. Tous droits réservés.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
