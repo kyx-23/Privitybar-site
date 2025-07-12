@@ -25,7 +25,12 @@
     <p>Scannez le QR code pour réserver une barmaid.</p>
     <img src="assets/qr-code.png" alt="QR Code" style="width:150px;">
   </section>
-
+<section class="qr-section">
+  <h2>Scannez & Réservez</h2>
+  <p>Scannez ce QR code avec votre téléphone pour accéder à la réservation PrivyBar :</p>
+  <img src="assets/qr-code.png" alt="QR Code PrivyBar" style="width: 180px; margin: 20px auto; display: block;">
+  <p><a href="https://ton-pseudo.github.io/privybar/" target="_blank" style="color: #ffd700;">Ou cliquez ici pour accéder au site</a></p>
+</section>
   <footer>
     <p>&copy; 2025 PrivyBar. Tous droits réservés.</p>
   </footer>
